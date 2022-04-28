@@ -1,0 +1,24 @@
+li {
+  list-style: none;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5em 0;
+}
+.video__thumb {
+  height: 150px;
+}
+.video__title {
+  margin-left: 0.5em;
+}
+.videoList {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}

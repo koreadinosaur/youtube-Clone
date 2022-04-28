@@ -1,6 +1,6 @@
 import "./app.css";
 import React, { useEffect, useState } from "react";
-import Videos from "./videos.jsx";
+import Videos from "./component/videos.jsx";
 
 const App = (props) => {
   const YOUTUBE_APIKEY = process.env.REACT_APP_YOUTUBE_API_KEY;
@@ -12,7 +12,7 @@ const App = (props) => {
       .then((response) => response.json())
       .then((data) => {
         const videosInfo = data.items.map((item) => {
-          return item.snippet;
+          return item;
         });
         setVideos(videosInfo);
       });
