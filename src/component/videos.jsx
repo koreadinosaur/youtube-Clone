@@ -6,7 +6,7 @@ const Videos = (props) => {
   return (
     <ul className="videoList">
       {props.videos.map((video) => (
-        <Video video={video.snippet} key={video.id} />
+        <Video video={video.snippet} key={video.id.videoId} />
       ))}
     </ul>
   );

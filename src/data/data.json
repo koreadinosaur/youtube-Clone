@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7i2EKwZJmnHn1Y8XGZDdLjdQFHg",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iNfEDkDDPSIVLeL_UkEQDm0l_js",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6PmRRLrLDwQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T05:57:06Z",
+        "channelId": "UCK8S6QMrTk1G8TYQwIyDo-w",
+        "title": "B T S PLAYLIST 2022 UPDATED | 방탄소년단 노래 모음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PmRRLrLDwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PmRRLrLDwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PmRRLrLDwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LQ KPOP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T05:57:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9D0dEIvScJAw0uvCIO3BahjwZIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8dJyRm2jJ-U"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-29T09:00:10Z",
+        "channelId": "UCrDkAvwZum-UTjHmzDI2iIw",
+        "title": "PSY - &#39;That That (prod. &amp; feat. SUGA of BTS)&#39; MV",
+        "description": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV MV Executive Producer: P NATION MV Director: 최용석 @LUMPENS Composed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "officialpsy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-29T09:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TlJHOZ9-fecwqRkCWNjj_OmP9WU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gdZLi9oWNZg"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T03:58:10Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T03:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vSgSOC99SH0fWectm4i7x5OQsoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HbkBVxU5K5A"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-23T01:00:03Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-23T01:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "03-C0pPO8IpsbYLj7GnNwEqcCVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "076BhZY_CrA"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T20:00:00Z",
+        "channelId": "UCcND7w2S7Oia4YAGTtxUMzQ",
+        "title": "Jimin CRIES After His Fave Makeup Artist Fell in Love w/ Him &amp; Forced to QUIT? HYBE Edits Jimin out?",
+        "description": "Watch Kpop Videos w/ Me: https://www.patreon.com/davedisci Today I wanted to get into #BTS news and specifically wanted to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/076BhZY_CrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/076BhZY_CrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/076BhZY_CrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave Disci Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T20:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dudxJd8AUUieI-T1dDiyNTR0l_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Jmtiv0VMk0"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T20:00:00Z",
+        "channelId": "UCcND7w2S7Oia4YAGTtxUMzQ",
+        "title": "Fans Think Jungkook RAGE QUIT? JK Gives WORDS to His Sons CAUGHT on LIVE(Rumor)? JHope Exposes This!",
+        "description": "Watch Kpop Videos w/ Me: https://www.patreon.com/davedisci Today I wanted to get into why some people think Jungkook from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Jmtiv0VMk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Jmtiv0VMk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Jmtiv0VMk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave Disci Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T20:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EwOcVBGd8UTv1hhvcVnBkkdot-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NftlnYo0cp0"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T18:20:00Z",
+        "channelId": "UCKuprywRDf5gyhSg9Usqgdg",
+        "title": "PSY - &#39;That That (prod. &amp; feat. SUGA of BTS)&#39; MV |Brothers Reaction!!!!",
+        "description": "If you enjoy the content, please LIKE the video and don't forget to SUBSCRIBE for more UNBIASED reactions! Business Email: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NftlnYo0cp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NftlnYo0cp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NftlnYo0cp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Amicy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T18:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9pLM99NioQLKdOpve9UDqm90C44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OHUsPiXfcfM"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-28T11:00:03Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[SPECIAL CLIP] BTS (방탄소년단) ‘Chicken Noodle Soup’ @ BTS 2021 MUSTER SOWOOZOO",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OHUsPiXfcfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OHUsPiXfcfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHUsPiXfcfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-28T11:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xy0zU_gajSEJRGujsumNyuzVQ78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mvVPhm_O2X4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T20:53:19Z",
+        "channelId": "UCEvHj9NCJ1YNBetDWvUJwyQ",
+        "title": "Producer Reacts to ENTIRE BTS Album - 2 Cool 4 Skool",
+        "description": "Patreon: https://www.patreon.com/BlakeMcLain Social: https://www.instagram.com/blakemclain_/ https://twitter.com/BlakeMcLain_ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mvVPhm_O2X4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mvVPhm_O2X4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvVPhm_O2X4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blake McLain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T20:53:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ls90C5QTnvaUfwhUxEEu_qe46Jc",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-17T03:20:38Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BANGTANTV",
+        "description": "방탄소년단 공식 유튜브 채널 입니다. This is the Official YouTube channel for BTS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLRGPiUuIKoSyGDGuFVjAVupX4gtTjHi3TdygB1azw=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLRGPiUuIKoSyGDGuFVjAVupX4gtTjHi3TdygB1azw=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLRGPiUuIKoSyGDGuFVjAVupX4gtTjHi3TdygB1azw=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-17T03:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q99n93tFBYWeyB_Ik6wyXGbuzpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2M23RqIapoo"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T13:00:01Z",
+        "channelId": "UCsaEd_rKBccEukTaje8biEw",
+        "title": "What a Duo! | PSY - &#39;That That (prod. &amp; feat. SUGA of BTS)&#39; MV | Reaction",
+        "description": "0:00 Intro 2:16 1st Viewing 11:02 2nd Viewing 16:14 Final Thoughts Help the People of Ukraine: Helps the Armed Forces of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2M23RqIapoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2M23RqIapoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2M23RqIapoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Caitlin Benson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T13:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pbPbiHtT6_DkW0VmdAfAAk_aB20",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HnZudkLgOSM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T09:00:15Z",
+        "channelId": "UCxj36tUOikEb_B71VeBAfTw",
+        "title": "PSY - &#39;That That (prod. &amp; feat. SUGA of BTS)&#39; MV REACTION!",
+        "description": "Thank you for watching my reaction to PSY - 'That That (prod. & feat. SUGA of BTS)' MV! Follow me on Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HnZudkLgOSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HnZudkLgOSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HnZudkLgOSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andrew Piluk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T09:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yzEBHhUzEyV388DxJKaI5L9iIZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iAMOUOlPy0U"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T06:00:08Z",
+        "channelId": "UC41_UR4dZkXYv0ZkLeH3pcA",
+        "title": "TAENNIE (Jennie BLACKPINK 💚 V BTS) Jennie got jealous when V was with Olivia Rodrigo😳⁉️ #제니 #뷔",
+        "description": "0:00 Please read this before U start the video 0:48 Jennie posted Video of herself with Olivia's Song in the background after she ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iAMOUOlPy0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iAMOUOlPy0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iAMOUOlPy0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AllAbout MyBias",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T06:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XLrSiJN2TRX-Jo6jYRT6Z9IaSIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WMweEpGlu_U"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-21T03:46:13Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-21T03:46:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aeB0NwYYMsTL0qeQwOJ0mSfsvqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XsX3ATc3FbA"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-12T09:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+        "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-12T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2FN_6hdoCf-g-ypOzzkwSBu6HD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H98V3vRqy0w"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T09:30:53Z",
+        "channelId": "UCknIZU-0xgXapS7GhVbXr0w",
+        "title": "BTS new funny related and ff 😬memes that will only army&#39;s can get it 😉😌||bts memes",
+        "description": "bts meme|That That song |bts funny memes|bts|bts funny moment |bts funny moment video |bts hindi memes |bts ff |bts ff video|bts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H98V3vRqy0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H98V3vRqy0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H98V3vRqy0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTS funny memes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T09:30:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hCz2XMXg666L7ygRSX7QDmJFK-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MBdVXkSdhwU"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-18T09:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
+        "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-18T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-_3y4Gw0tOgIGUBkZLnzfp1FHDg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CuklIb9d3fI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-09T03:59:12Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-09T03:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FYcYhLr8mTzskwGMrxx3hR-crVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtnKaNFghSs"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T09:00:26Z",
+        "channelId": "UC0RJAtZGjcUfwskb_AKGw3Q",
+        "title": "これは胸アツのコラボ！切な美しい歌声！ 지민(Jimin) X 하성운(Ha Sung-Woon) ’With you’ 우리들의 블루스(Our Blues)OST 【歌声分析】【リアクション】",
+        "description": "公式映像▽ https://youtu.be/Z9b0Hj-BfaM ボイス・ボーカルトレーナーSAKIKOによるYouTubeチャンネル【さきここVoice】 もしこの動画が ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtnKaNFghSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtnKaNFghSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtnKaNFghSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "さきここVoice",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T09:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BY7Y90V3Il9NrWcIl5RRgPDZJI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c4a0qH1jcYk"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-02T01:58:07Z",
+        "channelId": "UCo2mdYD3Az_DYhsKycSHWJg",
+        "title": "[Galax-E] PSY - &#39;That That (prod. &amp; feat. SUGA of BTS)&#39; MV Reaction",
+        "description": "2022 PSY COMING BACCCKKK!! And so are we with a full couch of our top notch reactors!! Does SamSam survive this comeback ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c4a0qH1jcYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c4a0qH1jcYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c4a0qH1jcYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Galax-E Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-02T01:58:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WG-EMIziFzNHUTN0QL5fZyEmobs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OZO69ioYMhE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T10:00:12Z",
+        "channelId": "UCVdbTygEmDYnJ1bGL-c8yiw",
+        "title": "(SUB) HYBE did not promote only JIN&#39;s OST &#39;Yours&#39;. / Discrimination and Exclusion of HYBE",
+        "description": "Jiniya1204님 tweet commnet 에요^^ 방탄 모든 멤버를 공평하게 홍보해 주세요! 진 OST YOURS는 소속사에서 단 한번의 언급도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OZO69ioYMhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OZO69ioYMhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OZO69ioYMhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "All about BTS JIN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yNMet6ZSEff-vLrWeCOYSaN32dk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pBuZEGYXA6E"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-24T09:00:03Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
+        "description": "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-24T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Am9B4Bu-Hfz_HnoCtgBBau0Bpdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z08IZPVjLL4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T08:01:29Z",
+        "channelId": "UCCg3J9mkA_F9n0pYkirNirA",
+        "title": "That That 뮤직비디오에서 슈가와 싸이가 싸우고 감싸안은 이유 BTS SUGA PSY",
+        "description": "매우 주관적인 영상으로, 반박시 님의 말도 맞아용 ㅠ #슈가 #싸이 #댓댓 #민윤기 #박재상 ---------더쿠피디 제보하기--------- 이메일 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z08IZPVjLL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z08IZPVjLL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z08IZPVjLL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더쿠피디",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T08:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4FnF4tPNuRj5CpKX3nR5a5q3SdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0mpcYl-UojU"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T22:00:13Z",
+        "channelId": "UCh5fs0GsHYMvsLurCxh5xbQ",
+        "title": "LA VOCAL LINE ESTA DEMENTE | REACCIONO /ANALIZO las NOTAS MAS ALTAS de BTS (EN VIVO) | Fede Sicaro",
+        "description": "CONTACTO COMERCIAL: Federicosicaro@gmail.com Únanse a esta familia O LOS PATEO: SUBSCRIBITE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mpcYl-UojU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mpcYl-UojU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mpcYl-UojU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fede Sicaro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wLHgDCMiOFK63DIfrk78GdsdOC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "99k9TdkvjVo"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T07:00:05Z",
+        "channelId": "UCPBF2LrOFmOf7NSI7QeHH9w",
+        "title": "BTS SUGAからの電話にPSYが驚いた理由 PSY &#39;That That (prod. &amp; feat. SUGA of BTS)&#39;",
+        "description": "PSYさんが、SUGAがプロデュースしてくれた経緯を明かしてくれました！ いつも見ていただきありがとうございます  KPOP研究チャンネル ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/99k9TdkvjVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/99k9TdkvjVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/99k9TdkvjVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KPOP研究所",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T07:00:05Z"
+      }
+    }
+  ]
+}

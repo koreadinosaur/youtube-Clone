@@ -6,10 +6,10 @@ const Video = (props) => {
       <img
         src={props.video.thumbnails.default.url}
         alt="thumbnal"
-        srcset=""
         className="video__thumb"
       />
       <span className="video__title">{props.video.title}</span>
+      <span className="video__channel">{props.video.channelTitle}</span>
     </li>
   );
 };
