@@ -2,23 +2,22 @@ import "./app.css";
 import React, { useEffect, useState } from "react";
 import Videos from "./component/videos.jsx";
 import Search from "./component/search";
+import Watch from "./component/watch";
 import response from "./response.json";
 import data from "./data/data.json";
 
 const App = (props) => {
   const YOUTUBE_APIKEY = process.env.REACT_APP_YOUTUBE_API_KEY;
   const [videos, setVideos] = useState([]);
-  const [search, setSearch] = useState([]);
+  const [selectedVideo, setSelectedVideo] = useState(null);
   const handleSearch = (value) => {
     fetch(
       `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${value}&key=${YOUTUBE_APIKEY}`
     )
       .then((response) => response.json())
       .then((data) => {
-        console.log("----------");
-        console.log(data, value);
         const searchData = data.items.map((item) => {
-          return item;
+          return { ...item, id: item.id.videoId };
         });
         setVideos(searchData);
       })
@@ -32,12 +31,9 @@ const App = (props) => {
     const url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=30&key=${YOUTUBE_APIKEY}`;
     fetch(url)
       .then((response) => {
-        console.log(response);
         return response.json();
       })
       .then((data) => {
-        console.log("getVideos");
-        console.log(data);
         const videosInfo = data.items.map((item) => {
           return item;
         });
@@ -49,11 +45,21 @@ const App = (props) => {
     // setVideos(response.items);
     getVideos();
   }, []);
-
+  const handleWatch = (value) => {
+    console.log(value);
+    setSelectedVideo(value);
+  };
   return (
     <div>
       <Search onSearch={handleSearch} />
-      <Videos videos={videos} />
+      {selectedVideo && (
+        <div className="videoDetail">
+          <Watch video={selectedVideo} />
+        </div>
+      )}
+      <section className={selectedVideo === null ? "List" : "sideList"}>
+        <Videos videos={videos} onClickWatch={handleWatch} />
+      </section>
     </div>
   );
 };

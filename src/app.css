@@ -35,3 +35,13 @@
     transform: rotate(360deg);
   }
 }
+
+.List .videoList {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.sideList {
+  flex: 1 1 70%;
+}

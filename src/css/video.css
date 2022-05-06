@@ -1,0 +1,11 @@
+.video {
+  transition: all 0.2s ease-in-out;
+}
+.video:hover {
+  transform: scale(1.1);
+}
+.video__thumb,
+.video__title,
+.video__channel:hover {
+  cursor: pointer;
+}
