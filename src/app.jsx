@@ -3,8 +3,6 @@ import React, { useEffect, useState } from "react";
 import Videos from "./component/videos.jsx";
 import Search from "./component/search";
 import Watch from "./component/watch";
-import response from "./response.json";
-import data from "./data/data.json";
 
 const App = (props) => {
   const YOUTUBE_APIKEY = process.env.REACT_APP_YOUTUBE_API_KEY;
@@ -45,20 +43,22 @@ const App = (props) => {
     // setVideos(response.items);
     getVideos();
   }, []);
-  const handleWatch = (value) => {
-    console.log(value);
-    setSelectedVideo(value);
+  const handleWatch = (video) => {
+    console.log(video);
+    setSelectedVideo(video);
   };
   return (
     <div>
       <Search onSearch={handleSearch} />
-      {selectedVideo && (
-        <div className="videoDetail">
-          <Watch video={selectedVideo} />
-        </div>
-      )}
       <section className={selectedVideo === null ? "List" : "sideList"}>
-        <Videos videos={videos} onClickWatch={handleWatch} />
+        {selectedVideo && (
+          <div className="videoDetail">
+            <Watch video={selectedVideo} />
+          </div>
+        )}
+        <div className="videoSideList">
+          <Videos videos={videos} onClickWatch={handleWatch} />
+        </div>
       </section>
     </div>
   );

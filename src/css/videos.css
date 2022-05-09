@@ -5,7 +5,7 @@ ul {
   padding: 0;
   margin: 0;
 }
-.video {
+.List > .videoSideList > ul > .video {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,5 +17,6 @@ ul {
 .video__title {
   margin-left: 0.5em;
 }
-.videoList {
+
+.sideVideos {
 }

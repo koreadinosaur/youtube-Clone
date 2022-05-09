@@ -1,4 +1,5 @@
 .video {
+  display: flex;
   transition: all 0.2s ease-in-out;
 }
 .video:hover {
@@ -8,4 +9,14 @@
 .video__title,
 .video__channel:hover {
   cursor: pointer;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.video__channel {
+  margin-top: 10px;
 }
