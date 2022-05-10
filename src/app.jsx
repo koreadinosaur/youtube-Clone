@@ -20,8 +20,8 @@ const App = (props) => {
         setVideos(searchData);
       })
       .catch((error) => console.log("error :", error));
+    setSelectedVideo(null);
 
-    console.log(`검색했다`);
     // setVideos(data.items);
   };
 

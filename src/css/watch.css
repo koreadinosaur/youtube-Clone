@@ -1,0 +1,12 @@
+.watch__title {
+  height: 5em;
+  border-bottom: 0.1em solid gray;
+  margin-bottom: 1em;
+}
+.watch__description {
+  white-space: pre-wrap;
+}
+.watch__tags {
+  color: blue;
+  font-size: 0.8em;
+}
