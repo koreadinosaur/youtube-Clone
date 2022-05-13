@@ -48,8 +48,10 @@ const App = (props) => {
     setSelectedVideo(video);
   };
   return (
-    <div>
-      <Search onSearch={handleSearch} />
+    <div className="componentContainer">
+      <section className="search">
+        <Search onSearch={handleSearch} />
+      </section>
       <section className={selectedVideo === null ? "List" : "sideList"}>
         {selectedVideo && (
           <div className="videoDetail">

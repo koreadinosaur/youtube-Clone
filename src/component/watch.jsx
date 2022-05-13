@@ -9,8 +9,8 @@ const Watch = ({ video, video: { snippet } }) => {
         width="720"
         height="405"
         src={`https://www.youtube.com/embed/${video.id}`}
-        frameborder="0"
-        allowfullscreen
+        frameBorder="0"
+        allowFullScreen
       ></iframe>
       <div className="watch__tags">
         {snippet.tags.length > 3

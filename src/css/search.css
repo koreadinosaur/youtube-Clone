@@ -14,7 +14,7 @@
 .logo__img {
   color: red;
 }
-.searchContainer {
+.inputContainer {
   height: 3em;
   position: fixed;
   left: 50%;
@@ -23,7 +23,7 @@
   align-items: center;
   width: 50%;
 }
-.searchContainer button {
+.inputContainer button {
   background: none;
   border: none;
 }
@@ -31,7 +31,8 @@
   font-size: 2em;
 }
 .search__input {
-  width: 100%;
+  width: 70%;
+  margin-left: auto;
   height: 2em;
   border: 0.1em solid grey;
 }

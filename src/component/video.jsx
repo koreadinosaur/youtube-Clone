@@ -6,7 +6,7 @@ const Video = ({ video, video: { snippet }, onClickWatch }) => {
   };
   return (
     <li className="video">
-      <div className="thumbnail">
+      <div className="thumbnailContainer">
         <img
           src={snippet.thumbnails.default.url}
           alt="thumbnal"

@@ -5,18 +5,16 @@ ul {
   padding: 0;
   margin: 0;
 }
+.List > .videoSideList > ul {
+  width: 1280px;
+  margin: auto;
+}
 .List > .videoSideList > ul > .video {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 0.5em 0;
 }
-.video__thumb {
-  height: 150px;
-}
-.video__title {
-  margin-left: 0.5em;
-}
-
-.sideVideos {
+.sideList > .videoSideList > ul {
+  max-width: 426px;
 }

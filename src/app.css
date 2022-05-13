@@ -35,6 +35,14 @@
     transform: rotate(360deg);
   }
 }
+.componentContainer {
+  max-width: 1700px;
+  margin: auto;
+}
+.search {
+  max-width: 1280px;
+  margin: auto;
+}
 
 .List .videoList {
   display: grid;

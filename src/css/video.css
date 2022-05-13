@@ -1,6 +1,12 @@
 .video {
   display: flex;
   transition: all 0.2s ease-in-out;
+  box-shadow: 5px 5px 5px -1px white;
+  border: 1px solid lightgray;
+  margin-bottom: 0.2em;
+}
+.List > .videoSideList > .videoList > .video {
+  height: 304px;
 }
 .video:hover {
   transform: scale(1.1);
@@ -10,13 +16,51 @@
 .video__channel:hover {
   cursor: pointer;
 }
-
+.thumbnailContainer {
+}
+.List > .videoSideList > .videoList > .video > .thumbnailContainer {
+  height: 60%;
+  width: 100%;
+}
+.sideList > .videoSideList > .videoList > .video > .thumbnailContainer {
+  margin-right: 8px;
+  width: 40%;
+}
+.List
+  > .videoSideList
+  > .videoList
+  > .video
+  > .thumbnailContainer
+  > .video__thumb {
+  height: 100%;
+  width: 100%;
+}
+.sideList
+  > .videoSideList
+  > .videoList
+  > .video
+  > .thumbnailContainer
+  > .video__thumb {
+  height: 100%;
+  width: 100%;
+}
 .title {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
+}
+.List > .videoSideList > .videoList > .video > .title {
+  max-width: 80%;
+  height: 40%;
+}
+.sideList > .videoSideList > .videoList > .video > .title {
+  max-width: 60%;
 }
 .video__channel {
   margin-top: 10px;
+  font-size: 0.8em;
+}
+.video__title {
+  margin-left: 0px;
 }

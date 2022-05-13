@@ -16,7 +16,7 @@ const Search = (props) => {
         <FontAwesomeIcon className="logo__img" icon={faYoutube} />
         Youtube
       </a>
-      <form className="searchContainer" type="submit" onSubmit={handleSearch}>
+      <form className="inputContainer" type="submit" onSubmit={handleSearch}>
         <input
           className="search__input"
           type="text"
