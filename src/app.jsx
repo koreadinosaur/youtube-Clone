@@ -4,44 +4,16 @@ import Videos from "./component/videos.jsx";
 import Search from "./component/search";
 import Watch from "./component/watch";
 
-const App = (props) => {
-  const YOUTUBE_APIKEY = process.env.REACT_APP_YOUTUBE_API_KEY;
+const App = ({ youtube }) => {
   const [videos, setVideos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
   const handleSearch = (value) => {
-    fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${value}&key=${YOUTUBE_APIKEY}`
-    )
-      .then((response) => response.json())
-      .then((data) => {
-        const searchData = data.items.map((item) => {
-          return { ...item, id: item.id.videoId };
-        });
-        setVideos(searchData);
-      })
-      .catch((error) => console.log("error :", error));
+    youtube.handleSearch(value).then((videos) => setVideos(videos));
     setSelectedVideo(null);
-
-    // setVideos(data.items);
   };
 
-  const getVideos = () => {
-    const url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=30&key=${YOUTUBE_APIKEY}`;
-    fetch(url)
-      .then((response) => {
-        return response.json();
-      })
-      .then((data) => {
-        const videosInfo = data.items.map((item) => {
-          return item;
-        });
-        setVideos(videosInfo);
-      })
-      .catch((error) => console.log("error :", error));
-  };
   useEffect(() => {
-    // setVideos(response.items);
-    getVideos();
+    youtube.getVideos().then((videos) => setVideos(videos));
   }, []);
   const handleWatch = (video) => {
     console.log(video);
