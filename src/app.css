@@ -11,7 +11,38 @@
     animation: App-logo-spin infinite 20s linear;
   } */
 }
-
+@media (max-width: 1023px) {
+  .sideList {
+    flex-direction: column;
+  }
+  .sideList > .videoSideList > .videoList {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 1023px;
+    max-height: 2000px;
+  }
+  .sideList > .videoSideList > .videoList > .video {
+    max-width: 426px;
+    height: 125px;
+  }
+}
+@media (max-width: 767px) {
+  .sideList {
+    flex-direction: column;
+  }
+  .sideList > .videoSideList > .videoList {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+  }
+  .logo__text {
+    display: none;
+  }
+  .logo {
+    left: 50px;
+  }
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

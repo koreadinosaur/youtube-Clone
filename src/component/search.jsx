@@ -14,7 +14,7 @@ const Search = (props) => {
     <section className="headBar">
       <a href="/" className="logo">
         <FontAwesomeIcon className="logo__img" icon={faYoutube} />
-        Youtube
+        <span className="logo__text">Youtube</span>
       </a>
       <form className="inputContainer" type="submit" onSubmit={handleSearch}>
         <input
